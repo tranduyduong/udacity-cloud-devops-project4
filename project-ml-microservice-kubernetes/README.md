@@ -1,3 +1,7 @@
+[![CircleCI](https://circleci.com/gh/tranduyduong/udacity-cloud-devops-project4.svg?style=svg.svg?style=svg)](https://circleci.com/gh/tranduyduong/udacity-cloud-devops-project4.svg?style=svg)
+
+
+
 #GET_PASSES_THIS_REPO_UDACITY_PLEASE 
 
 <include a CircleCI status badge, here>
